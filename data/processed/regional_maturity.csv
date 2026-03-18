@@ -1,0 +1,13 @@
+region,year,penetration_rate_pct,realistic_shortfall,region_maturity
+East of England,2025,0.06,21403,Lagging Region
+Wales,2025,0.22,4346,Emerging Market
+North East,2025,0.24,3463,Emerging Market
+Northern Ireland,2025,0.28,3592,Emerging Market
+West Midlands,2025,0.28,9916,Lagging Region
+East Midlands,2025,0.36,11055,Lagging Region
+Scotland,2025,0.38,12065,Lagging Region
+London,2025,0.48,15176,Volume Growth
+Yorkshire and The Humber,2025,0.5,16242,Volume Growth
+South West,2025,0.56,22574,Volume Growth
+North West,2025,0.6,26621,Volume Growth
+South East,2025,0.92,61813,Volume Growth
